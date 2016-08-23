@@ -1,0 +1,47 @@
+img{
+
+}
+body{
+	margin:0px;
+	padding:0px;
+	background:#6DF5FF;
+}
+.photo{
+	width:400px;
+	height:300px;
+}
+.image{
+	text-align: center;
+	display:inline-block;
+	margin:20px;
+}
+.image a{
+	text-decoration: none;
+	color:black;
+}
+.image a:hover{
+
+	color:red;
+}
+#main{
+	margin-top: 100px;
+}
+#header{
+	padding: 30px;
+	top:0;
+	left:0;
+	position: fixed;
+	width:100%;
+	background:black;
+	text-align: center;
+}
+#header a{
+	;
+	color:white;
+	font-size: 24px;
+	margin:80px;
+	text-decoration: none;
+}
+#header a:hover{
+	color:#6DF5FF;
+}
